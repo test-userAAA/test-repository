@@ -1,3 +1,4 @@
-サルでもわかるGitコマンドXXX
-add 変更をインデックスに登録するXXX
-競合テストXXX
+サルでもわかるGitコマンドCCCXXX
+add 変更をインデックスに登録するCCCXXX
+競合テストCCCXXX
+aaa
