@@ -1,4 +1,4 @@
-サルでもわかるGitコマンドXXX
-add 変更をインデックスに登録するXXX
-競合テストXXX
-bbb
+サルでもわかるGitコマンドVVV
+add 変更をインデックスに登録するVVV
+競合テストVVV
+ccc

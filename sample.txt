@@ -1,3 +1,3 @@
-サルでもわかるGitコマンドYYYTTT
-add 変更をインデックスに登録するYYYTTT
-競合テストYYYTTT
+サルでもわかるGitコマンドDDD
+add 変更をインデックスに登録するDDD
+競合テストDDD
